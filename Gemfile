@@ -19,7 +19,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 
 # Code lintern
 gem 'rubocop', '~> 0.74.0', require: false
