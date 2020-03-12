@@ -25,7 +25,7 @@ gem 'puma', '~> 4.1'
 gem 'rubocop', '~> 0.74.0', require: false
 
 # Exception tracking
-gem 'airbrake', '~> 9.4'
+gem 'airbrake', '~> 10.0'
 
 # GraphQL Ruby
 gem 'graphql', '~> 1.9.10'
