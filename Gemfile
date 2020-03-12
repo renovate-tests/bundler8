@@ -86,7 +86,7 @@ group :test do
   gem 'factory_bot', '~> 5.0.2'
   gem 'faker', '~> 2.1.2'
   gem 'rspec-rails', '~> 3.8.2'
-  gem 'shoulda-matchers', '~> 4.1.2'
+  gem 'shoulda-matchers', '~> 4.3.0'
   gem 'timecop'
   # WebMock allows stubbing HTTP requests and setting expectations on HTTP requests.
   gem 'webmock'
