@@ -49,7 +49,7 @@ gem 'aws-sdk-s3', '~> 1'
 gem 'rubyzip'
 
 # Simple, efficient background processing for Ruby
-gem 'sidekiq', '~> 6.0.2'
+gem 'sidekiq', '~> 6.2.0'
 
 # Records stats of each sidekiq queue and exposes APIs to retrieve them
 gem 'sidekiq_queue_metrics', git: 'https://github.com/ivanetchart/sidekiq_queue_metrics.git', branch: 'v3.0'
