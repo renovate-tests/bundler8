@@ -22,7 +22,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'puma', '~> 4.1'
 
 # Code lintern
-gem 'rubocop', '~> 0.74.0', require: false
+gem 'rubocop', '~> 0.93.0', require: false
 
 # Exception tracking
 gem 'airbrake', '~> 9.4'
