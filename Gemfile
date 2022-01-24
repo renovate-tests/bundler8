@@ -28,7 +28,7 @@ gem 'rubocop', '~> 0.74.0', require: false
 gem 'airbrake', '~> 9.4'
 
 # GraphQL Ruby
-gem 'graphql', '~> 1.9.10'
+gem 'graphql', '~> 1.13.0'
 
 # Simple authorization gem for GraphQL
 gem 'graphql-guard'
